@@ -28,16 +28,6 @@ Wazuh + Velociraptor + Fix Inventory 조합으로
 
 ---
 
-## 🛡️ Security Stack
-
-| 역할 | 도구 | 설명 |
-|------|------|------|
-| SIEM / IDS | Wazuh | EC2 에이전트 기반 로그 수집, 이상행위 탐지. Discord / Slack / Telegram 알림 연동 |
-| EDR | Velociraptor | 실시간 포렌식 및 메모리 분석 |
-| CSPM | Prowler | `추후 사용 예정` |
-
----
-
 ## 👥 Team
 
 | | | | |
