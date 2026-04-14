@@ -13,7 +13,7 @@
 
 ## 📁 Projects
 
-### 📚 [AWS-Breach_Casebook](https://github.com/woowa-beavers/AWS-Breach_Casebook)
+### 📚 [AWS-Breach-Casebook](https://github.com/woowa-beavers/AWS-Breach_Casebook)
 2014–2025 AWS 침해사고 아카이브.  
 MITRE ATT&CK TTP 매핑, 타임라인, 대응 분석을 체계적으로 정리한 케이스북.
 
