@@ -42,4 +42,4 @@ Wazuh + Velociraptor + Fix Inventory 조합으로
 `AWS EC2` `AWS RDS` `AWS ALB` `AWS CloudTrail` `AWS CloudWatch`  
 `Terraform` `Ansible` `Docker` `GitHub Actions`  
 `FastAPI` `Cloudflare Tunnel` `Tailscale`  
-`Wazuh` `Velociraptor` `Prowler`
+`Wazuh` `Velociraptor`
