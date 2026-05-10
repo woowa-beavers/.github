@@ -36,6 +36,7 @@ AWS 실전 침해사고 분석부터 보안 인프라 설계, CTI 자동화까�
 |:---:|:---|:---|
 | 📚 | **[AWS-Breach-Casebook](https://github.com/woowa-beavers/AWS-Breach_Casebook)**<br/><sub>`Python` `MITRE ATT&CK` `2014–2025`</sub> | AWS 실전 침해사고를 TTP 기반으로 분석한 케이스북 |
 | 🛒 | **[woowa-beavers-shop](https://github.com/woowa-beavers/woowa-beavers-shop)**<br/><sub>`AWS MSA` `VPC` `ALB` `RDS` `EC2`</sub> | 보안 실습용으로 직접 설계한 AWS 쇼핑몰 인프라 |
+| 🏗️ | **[woowa-beavers-IaC](https://github.com/woowa-beavers/woowa-beavers-IaC)**<br/><sub>`Terraform` `Ansible` `AWS 멀티계정` `Cloudflare`</sub> | 멀티계정 보안 인프라를 Terraform·Ansible로 코드화 |
 | 🤖 | **[woowa-n8n-cti](https://github.com/woowa-beavers/woowa-n8n-cti)**<br/><sub>`n8n` `CTI` `자동화`</sub> | 위협 인텔리전스 수집·분류 자동화 파이프라인 |
 
 </div>
@@ -60,5 +61,6 @@ AWS EC2 · RDS · ALB · CloudTrail · CloudWatch · GuardDuty<br/>
 Terraform · Ansible · Docker · GitHub Actions<br/>
 Wazuh · Velociraptor · n8n · FastAPI · Cloudflare Tunnel · Tailscale
 </sub>
+
 
 </div>
